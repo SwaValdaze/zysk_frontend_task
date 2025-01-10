@@ -1,12 +1,12 @@
 
 import React from 'react'
-import Herosection from './components/herosection';
-import Features from './components/features'
-import Testimonial from './components/testimonial';
-import Queries from './components/queries';
-import Blogs from './components/blogs';
+import Herosection from './components/Herosection';
+import Features from './components/Features'
+import Testimonial from './components/Testimonial';
+import Queries from './components/Queries';
+import Blogs from './components/Blogs';
 import Trial from './components/Trial';
-import Footer from './components/footer';
+import Footer from './components/Footer';
 import Navbar from './components/Navbar';
 import FAQ from './components/FAQ';
 
