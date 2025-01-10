@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://SwaValdaze.github.io/Zysk_Task/",
+  "homepage": "https://SwaValdaze.github.io/zysk_frontend_task/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
